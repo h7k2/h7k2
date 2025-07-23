@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="100" />
+<div>
+
+
 <!--
 **h7k2/h7k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
