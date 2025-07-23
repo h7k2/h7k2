@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div>
-<img src="https://github.com/h7k2/h7k2/blob/main/Your-old-code.jpg" width="100" />
+<img src="https://github.com/h7k2/h7k2/blob/main/Your-old-code.jpg" width="1000" />
 <div>
 
 
