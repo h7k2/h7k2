@@ -1,4 +1,4 @@
-# 😎 Welcome to my GitHub profile !
+# Hi there ! 👋
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTIwbHZ0aHFwamRtbXZpeTd1ZDhhYjU4czEyMnBzM25tZDl5aHppaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" alt="Cat coding on laptop" width="350"/>
@@ -7,7 +7,7 @@
 ---
 
 ## 🧑‍💻 About Me
-Hello! I'm h7k2, a passionate **Software Developer student at Holberton School**.  
+Hello! I'm **h7k2**, a passionate **Software Developer student at Holberton School**.  
 I love to build, learn, and break things (sometimes on purpose 😅).  
 Currently focusing on:
 - Low-level programming in **C**
