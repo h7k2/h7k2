@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-<div>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcode-green&psig=AOvVaw2BDTEHqW7dw7t7e8bOoTkE&ust=1761410883994000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiotYqlvZADFQAAAAAdAAAAABAE>
-<div>
+<p align="center">
+  <img src="https://media.giphy.com/media/UNoBcCYp7nq/giphy.gif" alt="Cat coding" width="400"/>
+</p>
+
 
 
 <!--
