@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UNoBcCYp7nq/giphy.gif" alt="Cat coding" width="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTIwbHZ0aHFwamRtbXZpeTd1ZDhhYjU4czEyMnBzM25tZDl5aHppaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" alt="Cat working on laptop" width="400"/>
 </p>
+
 
 
 
