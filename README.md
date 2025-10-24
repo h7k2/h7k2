@@ -13,7 +13,6 @@ Currently focusing on:
 - Low-level programming in **C**
 - Web development in **Python / Flask**
 - Databases & **SQLAlchemy**
-- UML Design and clean architecture (HBnB Evolution Project 🏠)
 
 ---
 
